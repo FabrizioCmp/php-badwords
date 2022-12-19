@@ -1,0 +1,38 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    text-align: center;
+    margin: 2rem 0;
+    font-weight: 800;
+    color: brown;
+    text-shadow: 2px 4px black;
+}
+.form_box{
+    width: 50%;
+    margin: auto;
+    
+}
+
+.my_form{
+    display: flex;
+    flex-direction: column;
+
+}
+label{
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin-top: 1rem;
+}
+.my_btn{
+    width: 15%;
+    border-radius: 5px;
+    background-color: blue;
+    color: antiquewhite;
+    border: 2px solid black;
+    margin: 1rem auto;
+}
+
+#badword{
+    width: 50%;
+}
